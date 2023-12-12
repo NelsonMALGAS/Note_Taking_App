@@ -54,4 +54,4 @@ The application will be accessible at [http://localhost:3000](http://localhost:3
 
 ## Contributing
 
-Feel free to contribute to the project by opening issues or submitting pull requests. Follow the [contributing guidelines](CONTRIBUTING.md) for more details.
+Feel free to contribute to the project by opening issues or submitting pull requests. 
